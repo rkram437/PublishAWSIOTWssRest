@@ -1,6 +1,4 @@
 # PublishAWSIOTWssRest
-Publish IOT via rest client wss and IOTshadow
-
 npm install
 
 Create IOT in AWS console and copy all the pem, crt, pfx files to the project certfiles folder
