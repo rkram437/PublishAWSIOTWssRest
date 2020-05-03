@@ -1,0 +1,22 @@
+{
+  "name": "iotpublisher",
+  "version": "1.0.0",
+  "description": "test iot publisher",
+  "main": "mqtt-over-wss-client.js",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.2.1",
+    "mqtt": "^2.18.8",
+    "rest-client": "^0.1.5",
+    "superagent": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "author": "",
+  "license": "ISC"
+}
